@@ -37,3 +37,15 @@ The purpose of this report is to convert transactional retail data into business
 2. **Operational Risk Metrics:** Custom metrics were developed to evaluate fulfillment reliability, including `High Risk` shipment identification and `Delay Severity` classification. These measures provide visibility into operational exceptions through KPIs such as `High Risk Count`, `% High Risk`, `Total Shipment Count`, and `Avg Shipment Cost`.
 
 3. **Net Performance Calculation:** All KPIs were modeled to reflect true business performance by incorporating returns, refunds, shipping costs, restocking fees, and write off activity. This ensures that reported metrics such as `Total Return Cost`, `Write Off Amount`, `Writeoff Rate`, and `Net Campaign Revenue` align with real commercial outcomes.
+
+## Executive Summary 
+
+- The business delivered **$44.84M in revenue** at a **25.20% profit margin**, supported by **$33.54M in marketing spend**. This confirms that the season produced strong **top line growth**, but also that profitability depended on **disciplined control of campaign investment** rather than revenue growth alone.
+
+- Campaign performance was **uneven across the portfolio**. **Holiday contributed 45.84% of revenue and 46.45% of units**, **Black Friday added 34.35% of revenue**, and **Clearance generated the strongest return on investment at 45.03%**, indicating that **scale and efficiency were not aligned across campaign**.
+
+- Category performance was **relatively even**, with the **top category contributing about $483K** and the **lowest categories remaining near the $400K level**, indicating a **broad sales base** rather than reliance on a few dominant categories.
+
+- Fulfillment was a **material constraint**, with **68.65% of shipments delivered late** and **6.64% classified as high risk**. That level of delivery pressure points to **service risk during peak trading** and creates a credible threat to **customer experience**.
+
+- Post sale leakage was **significant**, with **21,709 return orders**, **$5.12M in refund value**, **$2.03M in write offs**, and **net revenue after returns reduced to $39.72M**. The return profile shows that **gross sales overstated true commercial performance** and that **product quality, fit, or delivery issues** likely had a measurable financial cost.
