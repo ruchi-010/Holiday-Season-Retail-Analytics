@@ -75,13 +75,13 @@ The purpose of this report is to convert transactional retail data into business
 
 ## Recommendations and Trade-Offs
 - **Reallocate budget** from the low-yield Holiday campaign toward higher-return campaigns such as Clearance and Black Friday to reduce blended acquisition cost and improve marketing efficiency.
-  - Tradeoff: This approach may reduce total seasonal reach and top-line volume in the short term, even as it strengthens profitability.
+Tradeoff: This approach may reduce total seasonal reach and top-line volume in the short term, even as it strengthens profitability.
 
 - Expand the use of short, high-intent promotional windows by replicating the Clearance campaign model through targeted **flash sales**.
-  - Tradeoff: More frequent discounting may create promotion fatigue (customers becoming less responsive to frequent discounts and delaying purchases for better deals) and gradually weaken the brand’s full-price positioning.
+Tradeoff: More frequent discounting may create promotion fatigue (customers becoming less responsive to frequent discounts and delaying purchases for better deals) and gradually weaken the brand’s full-price positioning.
 
 - **Prioritize BOPIS (Buy Online, Pick Up In-Store) for peak trading weeks**, especially during the Week 48 to 52 surge, to reduce dependence on the carrier network and improve fulfillment reliability.
-  - Tradeoff: Greater fulfillment demand will shift to store teams and may place additional pressure on in-store operations during already busy periods.
+Tradeoff: Greater fulfillment demand will shift to store teams and may place additional pressure on in-store operations during already busy periods.
 
 - Improve the digital buying experience by **enhancing sizing guidance**, **product descriptions**, and **visual accuracy** to reduce returns driven by Wrong Size and Changed Mind.
   - Tradeoff: Implementing these improvements may require upfront investment in content, tooling, and product data management, but will reduce return-driven revenue leakage over time.
