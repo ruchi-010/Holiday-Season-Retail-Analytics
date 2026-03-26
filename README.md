@@ -78,13 +78,13 @@ The purpose of this report is to convert transactional retail data into business
   - Tradeoff: This approach may reduce total seasonal reach and top-line volume in the short term, even as it strengthens profitability.
 
 - Expand the use of short, high-intent promotional windows by replicating the Clearance campaign model through targeted **flash sales**.
-- Tradeoff: More frequent discounting may create promotion fatigue (customers becoming less responsive to frequent discounts and delaying purchases for better deals) and gradually weaken the brand’s full-price positioning.
+  - Tradeoff: More frequent discounting may create promotion fatigue (customers becoming less responsive to frequent discounts and delaying purchases for better deals) and gradually weaken the brand’s full-price positioning.
 
 - **Prioritize BOPIS (Buy Online, Pick Up In-Store) for peak trading weeks**, especially during the Week 48 to 52 surge, to reduce dependence on the carrier network and improve fulfillment reliability.
-- Tradeoff: Greater fulfillment demand will shift to store teams and may place additional pressure on in-store operations during already busy periods.
+  - Tradeoff: Greater fulfillment demand will shift to store teams and may place additional pressure on in-store operations during already busy periods.
 
 - Improve the digital buying experience by **enhancing sizing guidance**, **product descriptions**, and **visual accuracy** to reduce returns driven by Wrong Size and Changed Mind.
-- Tradeoff: Implementing these improvements may require upfront investment in content, tooling, and product data management, but will reduce return-driven revenue leakage over time.
+  - Tradeoff: Implementing these improvements may require upfront investment in content, tooling, and product data management, but will reduce return-driven revenue leakage over time.
 
 - **Recalibrate promised delivery dates** and build stronger peak season capacity buffers so the fulfillment network is not overcommitted during the Week 48 to 52 surge. This would reduce late deliveries and lower the share of high risk shipments shipped after the promised date.
-- Tradeoff: More conservative promise dates may slightly reduce perceived service speed and could create more pressure on planning teams, but it would improve delivery reliability and protect customer trust.
+  - Tradeoff: More conservative promise dates may slightly reduce perceived service speed and could create more pressure on planning teams, but it would improve delivery reliability and protect customer trust.
