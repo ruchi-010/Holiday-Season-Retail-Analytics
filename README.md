@@ -40,8 +40,7 @@ The purpose of this report is to convert transactional retail data into business
 
 ## Executive Summary 
 
-![Screenshot 2026-03-26 164921](https://github.com/user-attachments/assets/0c89b5b4-a3f3-449c-8deb-35946068a3f8)
-
+![Screenshot 2026-03-26 194857](https://github.com/user-attachments/assets/195a445d-9218-4011-80b5-da6583b3c999)
 
 - The business delivered **$44.84M in revenue** at a **25.20% profit margin**, supported by **$33.54M in marketing spend**. This confirms that the season produced strong **top line growth**, but also that profitability depended on **disciplined control of campaign investment** rather than revenue growth alone.
 
