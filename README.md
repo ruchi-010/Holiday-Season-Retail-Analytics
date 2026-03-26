@@ -75,7 +75,7 @@ The purpose of this report is to convert transactional retail data into business
 
 ## Recommendations and Trade-Offs
 - **Reallocate budget** from the low-yield Holiday campaign toward higher-return campaigns such as Clearance and Black Friday to reduce blended acquisition cost and improve marketing efficiency.
-- Tradeoff: This approach may reduce total seasonal reach and top-line volume in the short term, even as it strengthens profitability.
+  - Tradeoff: This approach may reduce total seasonal reach and top-line volume in the short term, even as it strengthens profitability.
 
 - Expand the use of short, high-intent promotional windows by replicating the Clearance campaign model through targeted **flash sales**.
 - Tradeoff: More frequent discounting may create promotion fatigue (customers becoming less responsive to frequent discounts and delaying purchases for better deals) and gradually weaken the brand’s full-price positioning.
