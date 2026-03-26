@@ -22,16 +22,18 @@ The purpose of this report is to convert transactional retail data into business
 
 ## Data Structure
 
-**Optimized Data Model Design:** A high performance star schema was implemented to support efficient query performance and scalable reporting. The model is structured around clearly defined fact and dimension tables, enabling consistent filtering and reliable DAX calculations across core business metrics such as `Total Revenue`, `Total Profit`, `Profit Margin`, `Total Qty`, and `Net Revenue After Returns`.
+1. **Optimized Data Model Design:** A high performance star schema was implemented to support efficient query performance and scalable reporting. The model is structured around clearly defined fact and dimension tables, enabling consistent filtering and reliable DAX calculations across core business metrics such as `Total Revenue`, `Total Profit`, `Profit Margin`, `Total Qty`, and `Net Revenue After Returns`.
 
-**Dual Fact Table Architecture:** The model leverages two primary fact tables, `OrderHeader` and `OrderLine`, to capture both order level attributes and item level transactional detail. This structure supports analysis across aggregated and granular views of performance, including `Total Revenue by Order Date`, `Total Qty by Order Date`, and `Profit Margin by Order Date`.
+2. **Dual Fact Table Architecture:** The model leverages two primary fact tables, `OrderHeader` and `OrderLine`, to capture both order level attributes and item level transactional detail. This structure supports analysis across aggregated and granular views of performance, including `Total Revenue by Order Date`, `Total Qty by Order Date`, and `Profit Margin by Order Date`.
 
-**Centralized Time Intelligence:** A dedicated `Calendar` table serves as the central date dimension for the model. Inactive relationships with `ReturnDate` and `DeliveryDate` enable multi-perspective time analysis through `USERELATIONSHIP`, supporting accurate reporting across sales, returns, and fulfillment timelines, including `Return Order Count`, `Return Rate`, `% Late Delivery`, `% Ontime Delivery`, and `Average Delivery Delay`.
+3. **Centralized Time Intelligence:** A dedicated `Calendar` table serves as the central date dimension for the model. Inactive relationships with `ReturnDate` and `DeliveryDate` enable multi-perspective time analysis through `USERELATIONSHIP`, supporting accurate reporting across sales, returns, and fulfillment timelines, including `Return Order Count`, `Return Rate`, `% Late Delivery`, `% Ontime Delivery`, and `Average Delivery Delay`.
+
+![Screenshot 2026-03-26 002403](https://github.com/user-attachments/assets/2606b59a-4341-44b0-ab4b-600b9ad423e6)
 
 ## Data Transformation
 
-**Data Quality and Validation:** A structured data validation process was applied to identify and resolve duplicate records and inconsistencies, ensuring accuracy across revenue, cost, and quantity reporting. This strengthens the reliability of measures such as `Total Revenue`, `Total Cost`, `Total Profit`, and `Total Qty`.
+1. **Data Quality and Validation:** A structured data validation process was applied to identify and resolve duplicate records and inconsistencies, ensuring accuracy across revenue, cost, and quantity reporting. This strengthens the reliability of measures such as `Total Revenue`, `Total Cost`, `Total Profit`, and `Total Qty`.
 
-**Operational Risk Metrics:** Custom metrics were developed to evaluate fulfillment reliability, including `High Risk` shipment identification and `Delay Severity` classification. These measures provide visibility into operational exceptions through KPIs such as `High Risk Count`, `% High Risk`, `Total Shipment Count`, and `Avg Shipment Cost`.
+2. **Operational Risk Metrics:** Custom metrics were developed to evaluate fulfillment reliability, including `High Risk` shipment identification and `Delay Severity` classification. These measures provide visibility into operational exceptions through KPIs such as `High Risk Count`, `% High Risk`, `Total Shipment Count`, and `Avg Shipment Cost`.
 
-**Net Performance Calculation:** All KPIs were modeled to reflect true business performance by incorporating returns, refunds, shipping costs, restocking fees, and write off activity. This ensures that reported metrics such as `Total Return Cost`, `Write Off Amount`, `Writeoff Rate`, and `Net Campaign Revenue` align with real commercial outcomes.
+3. **Net Performance Calculation:** All KPIs were modeled to reflect true business performance by incorporating returns, refunds, shipping costs, restocking fees, and write off activity. This ensures that reported metrics such as `Total Return Cost`, `Write Off Amount`, `Writeoff Rate`, and `Net Campaign Revenue` align with real commercial outcomes.
