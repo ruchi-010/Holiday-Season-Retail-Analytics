@@ -54,8 +54,7 @@ The purpose of this report is to convert transactional retail data into business
 - Post sale leakage was **significant**, with **21,709 return orders**, **$5.12M in refund value**, **$2.03M in write offs**, and **net revenue after returns reduced to $39.72M**. The return profile shows that **gross sales overstated true commercial performance** and that **product quality, fit, or delivery issues** likely had a measurable financial cost.
 
 ## Insights
-
-## Acquisition Analytics
+### Acquisition
 - Black Friday delivers strong revenue scale, but at $759.79 cost per order, it remains significantly less efficient than Clearance, which operates at $626.29 per order with 52.86% ROI. At the same time, the Holiday campaign absorbs over 50% of total marketing spend ($17.01M) while generating only 8.86% ROI, confirming that incremental spend at scale is driving diminishing returns and capturing lower-intent demand rather than improving acquisition quality.
 
 - The consistent decline in cost per order from Holiday to Clearance, combined with the relatively strong performance of Cyber Monday (24.75% ROI), indicates that customer intent increases as campaigns become more targeted and time-bound. This suggests that pricing strategy and urgency-driven promotions are materially more effective than prolonged seasonal campaigns in driving efficient demand.
