@@ -17,3 +17,7 @@ This project evaluates the business from both a commercial and operational persp
 ## Core Objectives
 
 The purpose of this report is to convert transactional retail data into business insight that supports planning, budgeting, and operational decision making. The final deliverable is intended to give stakeholders a clear understanding of what happened during the season, why it happened, and what actions could improve future performance.
+
+[Download PowerBI Dashbboard here](https://github.com/ruchi-010/Holiday-Season-Retail-Analytics/blob/main/Dashboard.pbix)
+
+## Data Structure and Transformation
