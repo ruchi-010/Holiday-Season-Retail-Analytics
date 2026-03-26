@@ -64,3 +64,12 @@ The purpose of this report is to convert transactional retail data into business
 - Delays peak after the sales peak, exposing a backlog-driven system failure where fulfillment cannot recover once overwhelmed. Carrier-level performance shows delays are evenly distributed across all carriers (FedEx, UPS, DHL), indicating a network-wide capacity constraint rather than isolated partner issues. Minimal differentiation across Standard, Expedited, and Overnight indicates that premium shipping is not delivering better reliability, eroding trust in delivery tiers and weakening the value of paid fulfillment upgrades.
 
 ![Screenshot 2026-03-26 194347](https://github.com/user-attachments/assets/3726c89a-a8a7-4089-b423-386ce11019aa)
+
+## Returns & Loss Drivers
+- Net revenue falls from **$44.84M to $39.72M** after returns, showing that post purchase leakage removes more than **$5M** from realized performance. This is not a minor adjustment to sales; it is a **material profit erosion layer** created by refunds and reverse logistics, with **$2.03M written off** and close to **40% of returned items generating no recoverable value**.
+
+- The return profile is concentrated in the **Web channel (~60% of returns)** and is driven mainly by **Wrong Size** and **Changed Mind** cited as **reasons of return** by customers, which points to **expectation mismatch rather than product failure**. In other words, the issue is not simply that customers are returning more online purchases; it is that the **digital buying experience is not setting the right expectations**, and that gap is turning sales into **avoidable losses**.
+
+
+![Screenshot 2026-03-27 001436](https://github.com/user-attachments/assets/46aa0751-0823-4982-b4d1-10d56dfa1dd2)
+
